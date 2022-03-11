@@ -12,8 +12,6 @@ public interface IUtilidadesPartida {
 
 
 
-
-
     public void finalizarPartida(Partida partida, Integer equipoVencedor);
 
 
